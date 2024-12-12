@@ -1,0 +1,7 @@
+apple    35
+banana  119
+cherry  252
+grape    77
+melon    56
+peach   343
+pear     98
