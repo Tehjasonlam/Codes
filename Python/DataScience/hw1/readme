@@ -1,0 +1,14 @@
+# Wine Quality Analysis
+
+## Description
+This project explores the relationships between wine attributes and their potential impact on quality using the `winequality.csv` dataset. The analysis includes visualizations and statistical computations, with key tasks such as correlation analysis, scatter plots, box plots, PCA, and more.
+
+## Files
+- `eda.ipynb`: The Jupyter Notebook containing the complete Python code for all tasks.
+- `report.pdf`: The final report containing the figures and interpretations.
+- `winequality.csv`: The dataset used for the analysis.
+
+## How to run code
+- Open Vs Code and run the "eda.ipynb".
+- All graphhs and figures will be generated in the "eda.ipynb" file.
+- Interpretations are also included in the "eda.ipynb" file.
