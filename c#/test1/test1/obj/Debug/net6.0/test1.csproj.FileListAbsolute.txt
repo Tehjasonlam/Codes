@@ -1,0 +1,15 @@
+/Users/jasonlam/Documents/Code/C#/test1/test1/bin/Debug/net6.0/test1
+/Users/jasonlam/Documents/Code/C#/test1/test1/bin/Debug/net6.0/test1.deps.json
+/Users/jasonlam/Documents/Code/C#/test1/test1/bin/Debug/net6.0/test1.runtimeconfig.json
+/Users/jasonlam/Documents/Code/C#/test1/test1/bin/Debug/net6.0/test1.dll
+/Users/jasonlam/Documents/Code/C#/test1/test1/bin/Debug/net6.0/test1.pdb
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/test1.csproj.AssemblyReference.cache
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/test1.AssemblyInfoInputs.cache
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/test1.AssemblyInfo.cs
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/test1.csproj.CoreCompileInputs.cache
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/test1.dll
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/refint/test1.dll
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/test1.pdb
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/test1.genruntimeconfig.cache
+/Users/jasonlam/Documents/Code/C#/test1/test1/obj/Debug/net6.0/ref/test1.dll

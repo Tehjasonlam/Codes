@@ -1,0 +1,52 @@
+<html>
+
+<head>
+   <title>Social Network</title>
+   <style>
+      form {
+         width: 50%;
+      }
+
+      label {
+         width: 150px;
+         float: left;
+      }
+   </style>
+</head>
+
+<body>
+
+   <h1>Join a social network</h1>
+
+   <form action="https://wp.zybooks.com/form-viewer.php" method="post" enctype="multipart/form-data">
+      <div>
+         <label for="fullName">Full name:</label>
+         <input type="text" id="fullName" name="fullName" required><br><br>
+
+         <!-- container for email that contains label and input -->
+         <div class="input-container">
+            <label for="email">Email address:</label>
+            <input type="email" id="email" name="email" required />
+         </div>
+
+         <!-- container for about that contains label and textarea -->
+         <div class="input-container">
+            <label for="about">About you:</label>
+            <textarea id="about" name="about" rows="3" cols="50"></textarea>
+         </div>
+
+         <!-- container for photo that contains label and input with file type -->
+         <div class="input-container">
+            <label for="picture" class="label">Photo: </label>
+            <input type="file" id="picture" name="picture" />
+         </div>
+
+         <!-- container for submit button -->
+         <div class="input-container">
+            <input type="submit" value="Submit"></input>
+         </div>
+      </div>
+   </form>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+.table {
+   width: 400px;
+   height: 300px;
+   background: linear-gradient(forestgreen, darkgreen);
+
+   /* Part of your solution goes here */
+}
+
+.card {
+   background-color: whitesmoke;
+   border: 1px solid black;         
+   width: 100px;
+   height: 160px;
+   line-height: 160px;
+   text-align: center;
+   font-size: 80px;
+   border-radius: 5px;
+   box-shadow: 3px 3px black;
+   /* Part of your solution goes here */
+}
+  
+
+.cardTop {
+   position: absolute;
+   left: 150px;
+   top: 100px;
+   z-index: 2;
+   /* Part of your solution goes here */
+}
+
+.cardBottom {
+   position: absolute;
+   left: 240px;
+   top: 120px;
+   z-index: 1;
+   /* Part of your solution goes here */
+}
+
+.topLeft {
+   position: absolute;
+   left: 2px;
+   top: 2px;
+   /* Part of your solution goes here */
+}
+
+.bottomRight {
+   position: absolute;
+   right: 2px;
+   bottom: 2px;
+   /* Part of your solution goes here */
+}

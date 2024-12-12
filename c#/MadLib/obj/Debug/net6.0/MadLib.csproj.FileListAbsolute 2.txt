@@ -1,0 +1,15 @@
+D:\Codes\C#\Program\MadLib\bin\Debug\net6.0\MadLib.exe
+D:\Codes\C#\Program\MadLib\bin\Debug\net6.0\MadLib.deps.json
+D:\Codes\C#\Program\MadLib\bin\Debug\net6.0\MadLib.runtimeconfig.json
+D:\Codes\C#\Program\MadLib\bin\Debug\net6.0\MadLib.dll
+D:\Codes\C#\Program\MadLib\bin\Debug\net6.0\MadLib.pdb
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\MadLib.csproj.AssemblyReference.cache
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\MadLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\MadLib.AssemblyInfoInputs.cache
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\MadLib.AssemblyInfo.cs
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\MadLib.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\MadLib.dll
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\refint\MadLib.dll
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\MadLib.pdb
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\MadLib.genruntimeconfig.cache
+D:\Codes\C#\Program\MadLib\obj\Debug\net6.0\ref\MadLib.dll

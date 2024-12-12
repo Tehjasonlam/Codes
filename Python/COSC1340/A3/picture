@@ -1,0 +1,15 @@
+lines = int(input("How many lines? "))
+length = int(input("Length of the lines? "))
+s = input("Enter a Symbol: ")
+
+print()
+for i in range(lines):
+    print(s * length)
+
+"""
+print()
+for i in range(lines):
+    for j in range(length):
+        print(s,end ='')
+    print()
+"""

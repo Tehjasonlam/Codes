@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "38SNUZeFPBiaJGNXHoT4OU842mQp96+HSnn2OtJ6DIWNDXpG78Xr9X+peNz3yVOHzpDyNHB5KeByUFhEhoaImQ==",
+  "success": true,
+  "projectFilePath": "d:\\Codes\\C#\\IntroLibrary\\IntroLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tri\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

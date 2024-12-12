@@ -1,0 +1,12 @@
+D:\Codes\C#\IntroLibrary\bin\Debug\net6.0\IntroLibrary.deps.json
+D:\Codes\C#\IntroLibrary\bin\Debug\net6.0\IntroLibrary.dll
+D:\Codes\C#\IntroLibrary\bin\Debug\net6.0\IntroLibrary.pdb
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\IntroLibrary.csproj.AssemblyReference.cache
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\IntroLibrary.AssemblyInfoInputs.cache
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\IntroLibrary.AssemblyInfo.cs
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\IntroLibrary.csproj.CoreCompileInputs.cache
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\IntroLibrary.dll
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\refint\IntroLibrary.dll
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\IntroLibrary.pdb
+D:\Codes\C#\IntroLibrary\obj\Debug\net6.0\ref\IntroLibrary.dll

@@ -1,0 +1,8 @@
+def PrintLine(numblanks, numsyms, sym):
+    print(numblanks*' ' + numsyms*sym)
+
+def PrintIsoscelesTriangle(height,sym):
+    for i in range (1,height+1):
+        PrintLine(height-i,i+i-1,sym)
+        
+PrintIsoscelesTriangle(5,'*')

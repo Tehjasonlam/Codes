@@ -1,0 +1,15 @@
+D:\Codes\C#\Program\If statements extra\bin\Debug\net6.0\If statements extra.exe
+D:\Codes\C#\Program\If statements extra\bin\Debug\net6.0\If statements extra.deps.json
+D:\Codes\C#\Program\If statements extra\bin\Debug\net6.0\If statements extra.runtimeconfig.json
+D:\Codes\C#\Program\If statements extra\bin\Debug\net6.0\If statements extra.dll
+D:\Codes\C#\Program\If statements extra\bin\Debug\net6.0\If statements extra.pdb
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\If statements extra.csproj.AssemblyReference.cache
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\If statements extra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\If statements extra.AssemblyInfoInputs.cache
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\If statements extra.AssemblyInfo.cs
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\If statements extra.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\If statements extra.dll
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\refint\If statements extra.dll
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\If statements extra.pdb
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\If statements extra.genruntimeconfig.cache
+D:\Codes\C#\Program\If statements extra\obj\Debug\net6.0\ref\If statements extra.dll

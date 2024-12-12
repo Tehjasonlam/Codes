@@ -1,0 +1,15 @@
+/Users/jasonlam/Documents/Code/C#/Leet1/bin/Debug/net6.0/Leet1
+/Users/jasonlam/Documents/Code/C#/Leet1/bin/Debug/net6.0/Leet1.deps.json
+/Users/jasonlam/Documents/Code/C#/Leet1/bin/Debug/net6.0/Leet1.runtimeconfig.json
+/Users/jasonlam/Documents/Code/C#/Leet1/bin/Debug/net6.0/Leet1.dll
+/Users/jasonlam/Documents/Code/C#/Leet1/bin/Debug/net6.0/Leet1.pdb
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/Leet1.csproj.AssemblyReference.cache
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/Leet1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/Leet1.AssemblyInfoInputs.cache
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/Leet1.AssemblyInfo.cs
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/Leet1.csproj.CoreCompileInputs.cache
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/Leet1.dll
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/refint/Leet1.dll
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/Leet1.pdb
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/Leet1.genruntimeconfig.cache
+/Users/jasonlam/Documents/Code/C#/Leet1/obj/Debug/net6.0/ref/Leet1.dll

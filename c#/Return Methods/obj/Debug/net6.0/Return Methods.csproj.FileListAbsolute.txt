@@ -1,0 +1,15 @@
+D:\Codes\C#\Program\Return Methods\bin\Debug\net6.0\Return Methods.exe
+D:\Codes\C#\Program\Return Methods\bin\Debug\net6.0\Return Methods.deps.json
+D:\Codes\C#\Program\Return Methods\bin\Debug\net6.0\Return Methods.runtimeconfig.json
+D:\Codes\C#\Program\Return Methods\bin\Debug\net6.0\Return Methods.dll
+D:\Codes\C#\Program\Return Methods\bin\Debug\net6.0\Return Methods.pdb
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\Return Methods.csproj.AssemblyReference.cache
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\Return Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\Return Methods.AssemblyInfoInputs.cache
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\Return Methods.AssemblyInfo.cs
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\Return Methods.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\Return Methods.dll
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\refint\Return Methods.dll
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\Return Methods.pdb
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\Return Methods.genruntimeconfig.cache
+D:\Codes\C#\Program\Return Methods\obj\Debug\net6.0\ref\Return Methods.dll
